@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: psrikanth89/pets
+  repository: helmapp
   tag: v2
   pullPolicy: Always
 
